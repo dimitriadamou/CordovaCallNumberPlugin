@@ -3,7 +3,7 @@
   xmlns="http://apache.org/cordova/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
   id="call-number"
-  version="1.0.4">
+  version="1.0.5">
 
   <description>Call Number from Cordova Application</description>
 
@@ -11,8 +11,8 @@
   <author>Rohith Varanasi, Nishil Shah</author>
   
   
-  <repo>https://github.com/Rohfosho/CordovaCallNumberPlugin.git</repo>
-  <issue>https://github.com/Rohfosho/CordovaCallNumberPlugin/issues</issue>
+  <repo>https://github.com/dimitriadamou/CordovaCallNumberPlugin.git</repo>
+  <issue>https://github.com/dimitriadamou/CordovaCallNumberPlugin/issues</issue>
 
   <license>Apache 2.0</license>
   <keywords>cordova,call,dialer,phonegap</keywords>
